@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.Bridge</key>
+	<integer>1</integer>
+	<key>com.apple.DocumentsApp</key>
+	<integer>1</integer>
+	<key>com.apple.Fitness</key>
+	<integer>2</integer>
+	<key>com.apple.Home</key>
+	<integer>1</integer>
+	<key>com.apple.Maps</key>
+	<integer>1</integer>
+	<key>com.apple.MobileAddressBook</key>
+	<integer>1</integer>
+	<key>com.apple.MobileStore</key>
+	<integer>1</integer>
+	<key>com.apple.Music</key>
+	<integer>1</integer>
+	<key>com.apple.Translate</key>
+	<integer>1</integer>
+	<key>com.apple.VoiceMemos</key>
+	<integer>1</integer>
+	<key>com.apple.calculator</key>
+	<integer>1</integer>
+	<key>com.apple.compass</key>
+	<integer>1</integer>
+	<key>com.apple.facetime</key>
+	<integer>1</integer>
+	<key>com.apple.iBooks</key>
+	<integer>1</integer>
+	<key>com.apple.measure</key>
+	<integer>1</integer>
+	<key>com.apple.mobilecal</key>
+	<integer>1</integer>
+	<key>com.apple.mobilemail</key>
+	<integer>1</integer>
+	<key>com.apple.mobilenotes</key>
+	<integer>1</integer>
+	<key>com.apple.news</key>
+	<integer>1</integer>
+	<key>com.apple.podcasts</key>
+	<integer>1</integer>
+	<key>com.apple.reminders</key>
+	<integer>1</integer>
+	<key>com.apple.shortcuts</key>
+	<integer>1</integer>
+	<key>com.apple.stocks</key>
+	<integer>1</integer>
+	<key>com.apple.tips</key>
+	<integer>1</integer>
+	<key>com.apple.tv</key>
+	<integer>1</integer>
+	<key>com.apple.weather</key>
+	<integer>1</integer>
+</dict>
+</plist>
