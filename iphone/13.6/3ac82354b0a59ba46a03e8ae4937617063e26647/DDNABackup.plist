@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appsDiskUsage</key>
+	<integer>1564</integer>
+	<key>audioDiskUsage</key>
+	<integer>110592</integer>
+	<key>booksDiskUsage</key>
+	<integer>0</integer>
+	<key>dataSets</key>
+	<integer>8478425</integer>
+	<key>datasetSizes</key>
+	<dict>
+		<key>1024</key>
+		<integer>516789</integer>
+		<key>128</key>
+		<integer>12288</integer>
+		<key>16</key>
+		<integer>4096</integer>
+		<key>16384</key>
+		<integer>47767</integer>
+		<key>2</key>
+		<integer>1564</integer>
+		<key>2048</key>
+		<integer>4096</integer>
+		<key>4096</key>
+		<integer>143360</integer>
+		<key>512</key>
+		<integer>81920</integer>
+		<key>64</key>
+		<integer>28672</integer>
+		<key>8</key>
+		<integer>1659206</integer>
+		<key>8388608</key>
+		<integer>11101</integer>
+	</dict>
+	<key>deviceAppleIDDSPersonID</key>
+	<integer>0</integer>
+	<key>deviceAppleIDEmail</key>
+	<string></string>
+	<key>deviceIconFilename</key>
+	<string>com.apple.iphone-6s-plus-b9b7ba.png</string>
+	<key>deviceModelDetails</key>
+	<string>iPhone 6s Plus</string>
+	<key>deviceUDID</key>
+	<string>3ac82354b0a59ba46a03e8ae4937617063e26647</string>
+	<key>documentsAndDataDiskUsage</key>
+	<integer>0</integer>
+	<key>domainSets</key>
+	<integer>0</integer>
+	<key>editable</key>
+	<false/>
+	<key>iMazingBackupVersion</key>
+	<integer>3</integer>
+	<key>migrationVersion</key>
+	<integer>1</integer>
+	<key>musicDiskUsage</key>
+	<integer>0</integer>
+	<key>otherDiskUsage</key>
+	<integer>125927506</integer>
+	<key>photosDiskUsage</key>
+	<integer>1659206</integer>
+	<key>podcastDiskUsage</key>
+	<integer>0</integer>
+	<key>ringtonesDiskUsage</key>
+	<integer>0</integer>
+	<key>totalDiskUsage</key>
+	<integer>127698868</integer>
+	<key>videoDiskUsage</key>
+	<integer>0</integer>
+	<key>voiceMemosDiskUsage</key>
+	<integer>81920</integer>
+</dict>
+</plist>
