@@ -1,0 +1,8 @@
+VoWiFiLocationEvaluated=0x1
+BootTime=0x5e3f1703
+CommCenterStartsThisBoot=0x1
+SimInfo::ClearPINCache_kOne=0x1
+kSimUnlockAlertPreferenceKey_kOne=0x0
+kNoSimAlertPreferenceKey=0x0
+GsmRadioModule::fPreviousBootUptime=0xc826dc4f
+WifiCallingLocationAuthorizationStatus=0x2

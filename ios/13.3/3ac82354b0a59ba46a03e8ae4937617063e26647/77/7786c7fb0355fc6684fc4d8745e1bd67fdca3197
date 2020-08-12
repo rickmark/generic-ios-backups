@@ -1,0 +1,1 @@
+Sun Aug 18 00:24:45 2019 [111] <notice> (0x16b8a3000) -[MobileInstallationHelperService _writeMigrationFileToDiskAtURL:]: Migration successfully completed. Writing file at file:///private/var/installd/Library/MobileInstallation/RoleUserMigration.plist
